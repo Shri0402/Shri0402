@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shrilatha
-- 👀 I’m interested to work as a Data Scientist
-- 🌱 I’m currently learning Machine learning Algorithms and many more skills required to gear up
+- 👀 I’m interested projects -- which might end up with lots of stars one day
 
 <!---
 Shri0402/Shri0402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
